@@ -5,8 +5,6 @@ at Politecnico di Milano. (2020/2021)
 
 **Teacher** Matteo Pradella
 
-![Image](images/Unequalized.jpg) ![Image](images/Equalized.jpg)
-
 ## Authors
 * [Lorenzo Iovine](https://github.com/lorenzoiovine99)
 
